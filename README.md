@@ -23,6 +23,9 @@ How to stream Solo video (This will become obsolete soon once 3DR adds an API to
 - http://www.3drpilots.com/threads/watching-solo-video-on-pc.1727/page-2#post-54552
 - http://www.3drpilots.com/threads/how-to-live-streaming-to-pc.4965/#post-55219
 
+VPU API:
+- https://github.com/Freescale/libimxvpuapi
+
 Malicious Hacking (An emphasis on how important it is to keep your Solo secure):
 - https://github.com/hotelzululima/3DRSoloHacks
 - https://github.com/MAVProxyUser/3DRSoloHacks
