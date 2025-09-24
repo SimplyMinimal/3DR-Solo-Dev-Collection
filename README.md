@@ -5,6 +5,9 @@ An attempt at centralizing all the development information for 3D Robotic's awes
 Official 3DR Solo Development:
 http://dev.3dr.com/
 
+Alternative Modern Open Source version:
+https://github.com/OpenSolo/OpenSolo 
+
 Beginner's guide to Dronekit:
 http://www.ddmckinnon.com/2015/12/30/idiots-guide-to-dronekit-python-a-journey-to-whoz-chillin/
 
